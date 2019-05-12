@@ -23,7 +23,7 @@ python3 Excel2SQL [Inputfile.xlsx] [Outputfile.sql]
 Replace [Inputfile.xlsx] with the included "data.xlsx" file (Outputfile is the name of the output file make sure type is sql)
 Like so
 ```
-python3 Excel2SQL data.xlsx Outputfile.xlsx
+python3 Excel2SQL data.xlsx insertions.sql
 ```
 If the code runs successfully you should have an Outputfile.sql in your directory
 
