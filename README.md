@@ -12,6 +12,7 @@ You can install OpenPyxl with pip like this
 ```
 pip install openpyxl --user
 ```
+The excel file has to be formatted correctly, please look at the included demo excel file for proper operation.
 
 ### Installing
 
@@ -25,7 +26,7 @@ Like so
 ```
 python3 Excel2SQL data.xlsx insertions.sql
 ```
-If the code runs successfully you should have an Outputfile.sql in your directory
+If the code runs successfully you should have an insertions.sql in your directory
 
 
 ## Built With
