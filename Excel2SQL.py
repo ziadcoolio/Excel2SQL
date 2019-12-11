@@ -4,9 +4,7 @@ import datetime
 import sys
 
 from openpyxl import Workbook
-
-if len(sys.argv) < 3 :
-	print("Not enough arguments")
+uments")
 	exit()
 if ".xlsx" not in sys.argv[1] and ".xls" not in sys.argv[2] :
 	print("Invalid output file format")
