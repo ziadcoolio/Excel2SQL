@@ -10,7 +10,7 @@ You'll need Python3 and OpenPyxl
 You can install OpenPyxl with pip like this
 
 ```
-pip install openpyxl --user
+pip install --user openpyxl 
 ```
 The excel file has to be formatted correctly, please look at the included demo excel file for proper operation.
 
